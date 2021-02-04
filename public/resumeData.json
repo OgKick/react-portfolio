@@ -1,0 +1,150 @@
+{
+    "main": {
+        "name": "Karin Deutsch",
+        "occupation": "Fullstack Developer & Environmental Engineer",
+        "description": "Freelancer & Job Seeker",
+        "image": "Foto.jpg",
+        "bio": "My Name is Karin, 'm an Evironmental Engeineer and about to get a Full Stack Developer. Currently I'm searching a new Challenge ",
+        "contactmessage": "Get in touch with me to receive further details or hire me as a Freelancer or Employee.",
+        "email": "karind87@gmail.com",
+        "phone": "+41 79 196 73 20",
+        "address": {
+            "street": "Strahleggweg 15",
+            "city": "Winterthur",
+            "state": "CH",
+            "zip": "8400"
+        },
+        "website": "https://karindeutsch.imfast.io/",
+        "resumedownload": "https://karindeutsch.imfast.io/",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/karin.deutsch.902",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/karin-deutsch-21201085/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/karind87/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/OgKick",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "I have experiences in HTML, CSS, JS, Java, Android Studio, Linux and more. Additional to that I am certified project manager, have branch knowledge in medicine and environment.",
+        "education": [{
+            "school": "ZHAW",
+            "degree": "Bachelor in Environmental Engineering",
+            "graduated": "December 2018",
+            "description": "Environmental Engineer with focus on organic Agriculture and Horticulture, Minor in Fieldbotany and certified Project Manager"
+        }],
+        "work": [{
+                "company": "Strickhof",
+                "title": "Internship as Research Assistent",
+                "years": "Feb 2019 - June 2019",
+                "description": "including systematic literature research, perform data visualizaion, Assist in the prepare for publications, own research project."
+            },
+            {
+                "company": "City Nursery",
+                "title": "Intern as landscape gardener",
+                "years": "Dec 2013 - Aug 2014",
+                "description": "including planting and green space care."
+            },
+            {
+                "company": "Toys R Us",
+                "title": "Cashier Assistant",
+                "years": "Oct 2013 - Nov 2013",
+                "description": "including planting and green space care."
+            },
+            {
+                "company": "Lekkerland GmbH & Co. KG",
+                "title": "Clerk",
+                "years": "Sep 2011 - Sep 2012",
+                "description": "Consulting of customers, order acceptance, application of special tours, exhibit at a fair."
+            },
+            {
+                "company": "ARO Personalservice GmbH",
+                "title": "Office Assistant",
+                "years": "June 2010 - Sep 2011",
+                "description": "including order acceptance, customer service."
+            }
+        ],
+        "skills": [{
+                "name": "Javascript",
+                "image": "js.png",
+                "level": "20%"
+            },
+            {
+                "name": "CSS",
+                "level": "50%"
+            },
+            {
+                "name": "Git",
+                "level": "10%"
+            },
+            {
+                "name": "Adobe XD",
+                "level": "40%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "GIS",
+                "level": "50%"
+            },
+            {
+                "name": "Open LCA",
+                "level": "30%"
+            },
+            {
+                "name": "Java for Android",
+                "level": "30%"
+            },
+            {
+                "name": "Android Studio",
+                "level": "50%"
+            },
+            {
+                "name": "Python",
+                "level": "10%"
+            }
+
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Store Locator",
+                "category": "Store Locator built with HTML, CSS, ReactJS",
+                "image": "StoreLocator.jpg",
+                "url": "https://store-locator-maps.netlify.app/"
+            },
+            {
+                "title": "Covid-19-Tracker",
+                "category": "Covid Tracker built with HTML, CSS, ReactJS, Firebase, Leaflet, Chartjs",
+                "image": "CovidTracker.png",
+                "url": "https://covid-19-tracker-kd.netlify.app/"
+            },
+            {
+                "title": "Amazon-Clone",
+                "category": "Amazon Clone built with HTML, CSS, ReactJS, Firebase",
+                "image": "amazon-clone.png",
+                "url": "https://clone-149b9.web.app/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+
+        ]
+    }
+}
