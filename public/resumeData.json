@@ -41,12 +41,24 @@
     "resume": {
         "skillmessage": "I have experiences in HTML, CSS, JS, Java, Android Studio, Linux and more. Additional to that I am certified project manager, have branch knowledge in medicine and environment.",
         "education": [{
+            "school": "Columbus State Community College",
+            "degree": "Associate's Degree in Computer Science",
+            "graduated": "December 2024",
+            "description": "Computer Science with focus on Software Development and Programming"
+        },
+        {
             "school": "ZHAW",
             "degree": "Bachelor in Environmental Engineering",
             "graduated": "December 2018",
             "description": "Environmental Engineer with focus on organic Agriculture and Horticulture, Minor in Fieldbotany and certified Project Manager"
         }],
         "work": [{
+                "company": "Oakland Nursery",
+                "title": "Internship as Nursery Sales",
+                "years": "Mar 2021 - Dec 2021",
+                "description": "including customer Service, watering and care for the plants, pruning, advicing customers in treatment against pests and diseases"
+            },
+            {
                 "company": "Strickhof",
                 "title": "Internship as Research Assistent",
                 "years": "Feb 2019 - June 2019",
@@ -80,19 +92,15 @@
         "skills": [{
                 "name": "Javascript",
                 "image": "js.png",
-                "level": "20%"
+                "level": "40%"
             },
             {
-                "name": "CSS",
+                "name": "Python",
                 "level": "50%"
             },
             {
-                "name": "Git",
-                "level": "10%"
-            },
-            {
-                "name": "Adobe XD",
-                "level": "40%"
+                "name": "CSS",
+                "level": "60%"
             },
             {
                 "name": "HTML5",
@@ -103,22 +111,25 @@
                 "level": "50%"
             },
             {
-                "name": "Open LCA",
-                "level": "30%"
-            },
-            {
                 "name": "Java for Android",
-                "level": "30%"
+                "level": "40%"
             },
             {
                 "name": "Android Studio",
                 "level": "50%"
             },
             {
-                "name": "Python",
-                "level": "10%"
+                "name": "Open LCA",
+                "level": "30%"
+            },
+            {
+                "name": "Git",
+                "level": "20%"
+            },
+            {
+                "name": "Adobe XD",
+                "level": "40%"
             }
-
         ]
     },
     "portfolio": {
