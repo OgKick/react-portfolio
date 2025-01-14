@@ -150,6 +150,14 @@
                 "category": "Amazon Clone built with HTML, CSS, ReactJS, Firebase",
                 "image": "amazon-clone.png",
                 "url": "https://clone-149b9.web.app/"
+            },
+            {
+                "title": "Alien Invasion",
+                "category": "Game Development",
+                "description": "Defend Earth from alien invaders in this classic arcade shooter!",
+                "tools": "Python, Pygame",
+                "image": "amazon-clone.png",
+                "url": "https://clone-149b9.web.app/"
             }
         ]
     },
