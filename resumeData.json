@@ -1,0 +1,185 @@
+{
+    "main": {
+        "name": "Karin Deutsch",
+        "occupation": "Fullstack Developer & Environmental Engineer",
+        "description": "Freelancer & Job Seeker",
+        "image": "Foto.jpg",
+        "bio": "Hello, I'm Karin Deutsch, a dedicated environmental engineer with a passion for full-stack development. I'm on a mission to combine my expertise in environmental sustainability with my technical skills to create innovative solutions for a greener future.",
+        "contactmessage": "Get in touch with me to receive further details or hire me as a Freelancer or Employee.",
+        "email": "karind87@gmail.com",
+        "phone": "+41 79 196 73 20",
+        "address": {
+            "street": "928 Bowtown Rd",
+            "city": "Delaware",
+            "state": "OH",
+            "zip": "43015"
+        },
+        "website": "https://karindeutsch.imfast.io/",
+        "resumedownload": "https://karindeutsch.imfast.io/",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/karin.deutsch.902",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/karin-deutsch-21201085/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/karind87/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/OgKick",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "I have experiences in HTML, CSS, JS, Java, Android Studio, Linux and more. Additional to that I am certified project manager, have branch knowledge in medicine and environment.",
+        "education": [{
+            "school": "Columbus State Community College",
+            "degree": "Associate's Degree in Computer Science",
+            "graduated": "December 2024",
+            "description": "Computer Science with focus on Software Development and Programming"
+        },
+        {
+            "school": "ZHAW",
+            "degree": "Bachelor in Environmental Engineering",
+            "graduated": "December 2018",
+            "description": "Environmental Engineer with focus on organic Agriculture and Horticulture, Minor in Fieldbotany and certified Project Manager"
+        }],
+        "work": [{
+                "company": "Oakland Nursery",
+                "title": "Internship as Nursery Sales",
+                "years": "Mar 2021 - Dec 2021",
+                "description": "including customer Service, watering and care for the plants, pruning, advicing customers in treatment against pests and diseases"
+            },
+            {
+                "company": "Strickhof",
+                "title": "Internship as Research Assistent",
+                "years": "Feb 2019 - June 2019",
+                "description": "including systematic literature research, perform data visualizaion, Assist in the prepare for publications, own research project."
+            },
+            {
+                "company": "City Nursery",
+                "title": "Intern as landscape gardener",
+                "years": "Dec 2013 - Aug 2014",
+                "description": "including planting and green space care."
+            },
+            {
+                "company": "Toys R Us",
+                "title": "Cashier Assistant",
+                "years": "Oct 2013 - Nov 2013",
+                "description": "including planting and green space care."
+            },
+            {
+                "company": "Lekkerland GmbH & Co. KG",
+                "title": "Clerk",
+                "years": "Sep 2011 - Sep 2012",
+                "description": "Consulting of customers, order acceptance, application of special tours, exhibit at a fair."
+            },
+            {
+                "company": "ARO Personalservice GmbH",
+                "title": "Office Assistant",
+                "years": "June 2010 - Sep 2011",
+                "description": "including order acceptance, customer service."
+            }
+        ],
+        "skills": [{
+                "name": "Javascript",
+                "image": "js.png",
+                "level": "40%"
+            },
+            {
+                "name": "Python",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "60%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "GIS",
+                "level": "50%"
+            },
+            {
+                "name": "Java for Android",
+                "level": "40%"
+            },
+            {
+                "name": "Android Studio",
+                "level": "50%"
+            },
+            {
+                "name": "Open LCA",
+                "level": "30%"
+            },
+            {
+                "name": "Git",
+                "level": "20%"
+            },
+            {
+                "name": "Adobe XD",
+                "level": "40%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Store Locator",
+                "category":"Web Design",
+                "description": "Store Locator built with HTML, CSS, ReactJS",
+                "image": "StoreLocator.jpg",
+                "url": "https://store-locator-maps.netlify.app/"
+            },
+            {
+                "title": "Covid-19-Tracker",
+                "category": "Web Design",
+                "description": "Covid Tracker built with HTML, CSS, ReactJS, Firebase, Leaflet, Chartjs",
+                "image": "CovidTracker.png",
+                "url": "https://covid-19-tracker-kd.netlify.app/"
+            },
+            {
+                "title": "Amazon-Clone",
+                "category":"Web Design",
+                "description": "Amazon Clone built with HTML, CSS, ReactJS, Firebase",
+                "image": "amazon-clone.png",
+                "url": "https://amazon-fake-clone.netlify.app/"
+            },
+            {
+                "title": "Alien Invasion",
+                "category": "Game Development",
+                "description": "Defend Earth from alien invaders in this classic arcade shooter!",
+                "image": "alien_invasion.png",
+                "url": "https://clone-149b9.web.app/"
+            },
+            {
+                "title": "Netflix Clone",
+                "category": "Web Design",
+                "description": "Netflix Clone built with HTML, CSS, ReactJS, Firebase, Stripe and TMDb",
+                "image": "Netflix clone.jpeg",
+                "url": "https://netflix-clone-karin.netlify.app/"
+            },
+            {
+                "title": "User Account Management Script",
+                "category": "System Administration / Scripting",
+                "description": "A PowerShell script for managing local user accounts with features to add, edit, delete users, and set expiration dates and groups.",
+                "image": "user_account_management.png",
+                "url": "https://your_project_link_here.com"
+            }            
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+
+        ]
+    }
+}
